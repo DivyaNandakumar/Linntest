@@ -47,5 +47,10 @@ FrontEnd Unit test (Jasmine)
 - verify that clickin gon "create New" navigates to "add-category" page
 - verify in property of HTML that the login button is disabled when the page is launched
 
-MSSQL integration test (TestView)
-- TBD
+MSSQL integration test (TBD)
+- insert method for categories
+- delete method for categories
+- method to update stock of categories
+- method to update name of categories
+- method to get all the details from MSSQL
+
